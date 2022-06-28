@@ -1,0 +1,37 @@
+.titulo1{
+    position: relative;
+    background-color: #bb86fc;
+    color: #fff;
+    width: fit-content;
+}
+
+.cabecalho1{
+    border: solid #fff;
+    background-color: #bb86fc;
+    color: #fff;
+}
+
+.pdt{
+    border: solid #fff;
+    background-color: #000;
+    color: #fff;
+}
+
+.titulo2{
+    position: relative;
+    background-color: #00c4b4;
+    color: #fff;
+    width: fit-content;
+}
+
+.cabecalho2{
+    border: solid #fff;
+    background-color: #00c4b4;
+    color: #fff;
+}
+
+.mv{
+    border: solid #fff;
+    background-color: #000;
+    color: #fff;
+}
